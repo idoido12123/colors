@@ -32,7 +32,7 @@ public class Main2Activity extends AppCompatActivity {
         if(st.equals("yellow"))
             rl2.setBackgroundColor(Color.YELLOW);
         if(st.equals("black"))
-            rl2.setBackgroundColor(Color.BLACK);
+            rl2.setBackgroundColor(Color.BLACK );
 
 
 
